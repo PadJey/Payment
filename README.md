@@ -13,14 +13,13 @@
 # Funktionen / Features
 
 - !--       _
-       .__(.)> (MEOW)
+       .__(.)< (MEOW)
         \___)   
- ~~~~~~~~~~~~~~~~~~--
 - CreditCardStyle (CSS)
 - Randomize CreditCard
 - Formular, Header and Footer
-- Site Pages
-- 
+- Site Pages and Secrets
+- Picture Collage
 - HTML, CSS & JS in UwU
 - Supported Updates for <50 years
 
@@ -35,7 +34,7 @@
 - p>
 - Visual Studio Handling
 - Use CSS grid and flex to create layout
-- RGB u (optimised and reusable functions)
+- RGB and Finances (optimised and reusable functions)
 - p/>
 
 
