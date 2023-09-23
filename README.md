@@ -13,8 +13,8 @@
 # Funktionen / Features
 
 - !--       _
-       .__(.)< (MEOW)
-        \___)   
+- !     .__(.)< (MEOW)
+- !      \___)   
 - CreditCardStyle (CSS)
 - Randomize CreditCard
 - Formular, Header and Footer
