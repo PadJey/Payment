@@ -12,12 +12,12 @@
 
 # Funktionen / Features
 
-- !--       _
-- !     .__(.)< (MEOW)
-- !      \___)   
+- !-----------_
+- !-------.__(.)< (MEOW)
+- !--------\___)   
 - CreditCardStyle (CSS)
 - Randomize CreditCard
-- Formular, Header and Footer
+- Formular, Header, Body and Footer
 - Site Pages and Secrets
 - Picture Collage
 - HTML, CSS & JS in UwU
