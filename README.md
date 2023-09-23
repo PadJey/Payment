@@ -12,7 +12,7 @@
 
 # Funktionen / Features
 
-- !------------_
+- !-----------_
 - !--------.__(.)< (MEOW)
 - !--------(___)   
 - CreditCardStyle (CSS)
