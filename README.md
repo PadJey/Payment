@@ -16,12 +16,12 @@
 - !-------.__(.)< (MEOW)
 - !--------\___)   
 - CreditCardStyle (CSS)
-- Randomize CreditCard
+- Randomized CreditCard
 - Formular, Header, Body and Footer
-- Site Pages and Secrets
-- Picture Collage
+- Site Pages
+- Picture Collage (kodfun Galeri)
 - HTML, CSS & JS in UwU
-- Supported Updates for <50 years
+- Basic framework
 
 
 # Was ich lernte / What I learned 
@@ -40,4 +40,4 @@
 
 # Beitragende / Contributing
 
-- Powered by Github, OpenAI and OpenSource
+- Powered by Github and OpenAI
