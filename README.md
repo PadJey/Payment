@@ -14,7 +14,7 @@
 
 - !-----------_
 - !-------.__(.)< (MEOW)
-- !--------\___)   
+- !--------(___)   
 - CreditCardStyle (CSS)
 - Randomized CreditCard
 - Formular, Header, Body and Footer
