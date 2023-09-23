@@ -13,7 +13,7 @@
 # Funktionen / Features
 
 - !-----------_
-- !-------.__(.)< (MEOW)
+- !--------.__(.)< (MEOW)
 - !--------(___)   
 - CreditCardStyle (CSS)
 - Randomized CreditCard
