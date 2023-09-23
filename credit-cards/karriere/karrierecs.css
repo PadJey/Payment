@@ -1,0 +1,53 @@
+/* Allgemeine Stile */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, section, footer {
+    padding: 40px;
+    text-align: center;
+}
+
+/* Header-Stile */
+header {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.left-align-text {
+    text-align: left;
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+/* Überschriften */
+h1, h2 {
+    color: #333;
+    position: center
+}
+
+/* CTA-Stile */
+.cta {
+    background-color: #f0f0f0;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* Footer-Stile */
+footer {
+    background-color: #333;
+    color: #fff;
+}
